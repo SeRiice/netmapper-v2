@@ -10,4 +10,6 @@ SECURITY_PASSWORD_ITERATIONS=
 NEXT_PUBLIC_API_BASE_URL=
 ```
 
+Il vous faudra également télécharger une machine multipass sur votre machine et renseignez son nom dans le fichier @/pages/api/nmap.js
+
 Lien du repo Git : https://github.com/SeRiice/netmapper-v2
